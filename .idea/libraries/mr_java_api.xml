@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mr_java_api">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Java开发包/mr_java_api" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../Java开发包/mr_java_api" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../Java开发包/mr_java_api" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../Java开发包/mr_java_api" recursive="false" type="SOURCES" />
+  </library>
+</component>

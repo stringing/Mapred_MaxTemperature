@@ -1,0 +1,88 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Mapred_MaxTemperature:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mapred_MaxTemperature_jar</output-path>
+    <root id="archive" name="Mapred_MaxTemperature.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Mapred_MaxTemperature" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/xz-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/asm-3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/avro-1.7.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/gson-2.2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/junit-4.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/jsch-0.1.54.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/jsp-api-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/xmlenc-0.52.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/guava-11.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/jets3t-0.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/jettison-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/jetty-6.1.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/jsr305-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/paranamer-2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/activation-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/commons-io-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/httpcore-4.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/jaxb-api-2.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/stax-api-1.0-2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/aopalliance-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/commons-cli-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/commons-net-3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/jersey-core-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/jersey-json-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/servlet-api-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/zookeeper-3.4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/commons-lang-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/hadoop-nfs-2.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/httpclient-4.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/slf4j-api-1.7.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/commons-codec-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/hadoop-auth-2.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/jackson-xc-1.9.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/jaxb-impl-2.2.3-1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/jersey-server-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/jetty-util-6.1.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/mockito-all-1.8.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/netty-3.6.2.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/api-util-1.0.0-M20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/commons-math3-3.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/hadoop-common-2.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/java-xmlbuilder-0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/protobuf-java-2.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/snappy-java-1.0.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/commons-digester-1.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/curator-client-2.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/jackson-jaxrs-1.9.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/slf4j-log4j12-1.7.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/commons-logging-1.1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/curator-recipes-2.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/api-asn1-api-1.0.0-M20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/commons-compress-1.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/commons-httpclient-3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/jetty-sslengine-6.1.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/apacheds-i18n-2.0.0-M15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/commons-beanutils-1.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/curator-framework-2.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/jackson-core-asl-1.9.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/hadoop-annotations-2.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/commons-collections-3.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/commons-configuration-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/hadoop-common-2.7.6-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/jackson-mapper-asl-1.9.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/commons-beanutils-core-1.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/htrace-core-3.1.0-incubating.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/hadoop-mapreduce-examples-2.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/hadoop-mapreduce-client-hs-2.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/apacheds-kerberos-codec-2.0.0-M15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/hadoop-mapreduce-client-app-2.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/hadoop-mapreduce-client-core-2.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/hadoop-mapreduce-client-common-2.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/hadoop-mapreduce-client-shuffle-2.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/hadoop-mapreduce-client-jobclient-2.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/hadoop-mapreduce-client-hs-plugins-2.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Java开发包/mr_java_api/hadoop-mapreduce-client-jobclient-2.7.6-tests.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
